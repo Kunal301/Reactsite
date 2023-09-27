@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Reactsite/static/css/main.ad988b61.css",
+    "main.js": "/Reactsite/static/js/main.25728919.js",
+    "static/media/result1.png": "/Reactsite/static/media/result1.55f05d8e2a01fd9a662f.png",
+    "static/media/result.png": "/Reactsite/static/media/result.c02edf8b008cbf501c74.png",
+    "static/media/Artboard_1_1803a6f5-c549-454b-9ab0-c77190d69336.webp": "/Reactsite/static/media/Artboard_1_1803a6f5-c549-454b-9ab0-c77190d69336.69274c0af5b414516734.webp",
+    "static/media/newsletter.jpg": "/Reactsite/static/media/newsletter.11ae8bbbcbea0dc8208e.jpg",
+    "static/media/image.png": "/Reactsite/static/media/image.99e35e282bebe5e4f83c.png",
+    "static/media/1242x450._CB1198675309_.jpg": "/Reactsite/static/media/1242x450._CB1198675309_.178aeb6af83ff553da92.jpg",
+    "static/media/contactbg.webp": "/Reactsite/static/media/contactbg.eeaeab80019015c1d58b.webp",
+    "static/media/background_9.jpg": "/Reactsite/static/media/background_9.b500d5d0ea787c97f91d.jpg",
+    "static/media/rings1.jpg": "/Reactsite/static/media/rings1.a4eea40a2175b97e7465.jpg",
+    "static/media/jhumka.webp": "/Reactsite/static/media/jhumka.cf1db0c4cf297cc49157.webp",
+    "static/media/background_11.jpg": "/Reactsite/static/media/background_11.b1229e3032f494e02f00.jpg",
+    "index.html": "/Reactsite/index.html",
+    "main.ad988b61.css.map": "/Reactsite/static/css/main.ad988b61.css.map",
+    "main.25728919.js.map": "/Reactsite/static/js/main.25728919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad988b61.css",
+    "static/js/main.25728919.js"
+  ]
+}
